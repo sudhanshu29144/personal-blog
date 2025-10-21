@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Welcome to My Blog",
+    "content": "This is the first post of many. Stay tuned!"
+  },
+  {
+    "title": "JavaScript is Awesome",
+    "content": "Learning DOM manipulation and Local Storage is super fun!"
+  }
+]
